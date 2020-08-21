@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.sup" format="2">
+  <advance width="352"/>
+  <unicode hex="E503"/>
+  <note>
+one.sup
+</note>
+  <outline>
+    <contour>
+      <point x="135.08" y="666.05" type="curve" smooth="yes"/>
+      <point x="135.08" y="331.3" type="line"/>
+      <point x="240.49" y="331.31" type="line"/>
+      <point x="240.49" y="799.95" type="line"/>
+      <point x="107.78" y="744.05" type="line"/>
+      <point x="107.24" y="720.76" type="line"/>
+      <point x="117.39" y="716.63"/>
+      <point x="125.66" y="708.29"/>
+      <point x="130.12" y="698.28" type="curve" smooth="yes"/>
+      <point x="134.58" y="688.27"/>
+      <point x="135.08" y="677.01"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>135.08</real>
+            <real>105.4</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ccaron" format="2">
+  <advance width="367"/>
+  <unicode hex="010D"/>
+  <note>
+ccaron
+</note>
+  <outline>
+    <contour>
+      <point x="181.86" y="786.67" type="line"/>
+      <point x="108.77" y="707.23" type="line"/>
+      <point x="243.61" y="583.16" type="line"/>
+      <point x="425.54" y="768.49" type="line"/>
+      <point x="406.99" y="786.7" type="line"/>
+      <point x="300.13" y="677.84" type="line"/>
+    </contour>
+    <contour>
+      <point x="231.82" y="123" type="curve" smooth="yes"/>
+      <point x="251.02" y="111.79"/>
+      <point x="273.09" y="105.54"/>
+      <point x="295.32" y="105" type="curve"/>
+      <point x="352.99" y="146.67" type="line"/>
+      <point x="365.99" y="129.17" type="line"/>
+      <point x="218.82" y="0" type="line"/>
+      <point x="204.82" y="0" type="line"/>
+      <point x="53.82" y="102.88" type="line"/>
+      <point x="53.82" y="401.88" type="line"/>
+      <point x="260.32" y="517" type="line"/>
+      <point x="366.32" y="432" type="line"/>
+      <point x="271.32" y="360" type="line"/>
+      <point x="182.32" y="434" type="line"/>
+      <point x="182.32" y="174" type="line"/>
+      <point x="193.79" y="152.93"/>
+      <point x="211.11" y="135.09"/>
+    </contour>
+  </outline>
+</glyph>

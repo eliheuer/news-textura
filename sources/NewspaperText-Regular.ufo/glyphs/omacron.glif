@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omacron" format="2">
+  <advance width="472"/>
+  <unicode hex="014D"/>
+  <note>
+omacron
+</note>
+  <outline>
+    <contour>
+      <point x="129.87" y="699.22" type="line"/>
+      <point x="129.87" y="592.22" type="line"/>
+      <point x="402.84" y="591.22" type="line"/>
+      <point x="402.84" y="698.22" type="line"/>
+    </contour>
+    <contour>
+      <point x="310.65" y="76.49" type="line"/>
+      <point x="195.61" y="153.19" type="line"/>
+      <point x="195.61" y="440.8" type="line"/>
+      <point x="310.65" y="364.1" type="line"/>
+    </contour>
+    <contour>
+      <point x="15" y="89.46" type="line"/>
+      <point x="32.63" y="67.7" type="line"/>
+      <point x="74.13" y="101.36" type="line"/>
+      <point x="120.88" y="67.15"/>
+      <point x="167.85" y="33.78"/>
+      <point x="214.78" y="-0.2" type="curve"/>
+      <point x="435.28" y="134.02" type="line"/>
+      <point x="435.28" y="407.25" type="line"/>
+      <point x="291.48" y="517.5" type="line"/>
+      <point x="66.19" y="388.08" type="line"/>
+      <point x="66.19" y="302.38"/>
+      <point x="66.19" y="216.67"/>
+      <point x="66.19" y="130.97" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

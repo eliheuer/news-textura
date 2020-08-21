@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordmasculine" format="2">
+  <advance width="393"/>
+  <unicode hex="00BA"/>
+  <note>
+ordmasculine
+</note>
+  <outline>
+    <contour>
+      <point x="259.28" y="428.03" type="line"/>
+      <point x="173" y="485.55" type="line"/>
+      <point x="173" y="701.26" type="line"/>
+      <point x="259.28" y="643.74" type="line"/>
+    </contour>
+    <contour>
+      <point x="37.55" y="437.73" type="line"/>
+      <point x="50.76" y="421.43" type="line"/>
+      <point x="81.89" y="446.67" type="line"/>
+      <point x="116.95" y="421.01"/>
+      <point x="152.18" y="395.98"/>
+      <point x="187.38" y="370.5" type="curve"/>
+      <point x="352.76" y="471.16" type="line"/>
+      <point x="352.76" y="676.08" type="line"/>
+      <point x="244.91" y="758.77" type="line"/>
+      <point x="75.94" y="661.7" type="line"/>
+      <point x="75.94" y="597.42"/>
+      <point x="75.94" y="533.15"/>
+      <point x="75.94" y="468.87" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>75.93</real>
+            <real>97.07</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>259.28</real>
+            <real>93.47</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

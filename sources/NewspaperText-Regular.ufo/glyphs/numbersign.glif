@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign" format="2">
+  <advance width="697"/>
+  <unicode hex="0023"/>
+  <note>
+numbersign
+</note>
+  <outline>
+    <contour>
+      <point x="78.24" y="564" type="line"/>
+      <point x="81.09" y="457" type="line"/>
+      <point x="195.24" y="457" type="line"/>
+      <point x="195.24" y="354" type="line"/>
+      <point x="78.24" y="354" type="line"/>
+      <point x="81.09" y="247" type="line"/>
+      <point x="195.24" y="247" type="line"/>
+      <point x="195.24" y="137" type="line"/>
+      <point x="302.24" y="137" type="line"/>
+      <point x="302.24" y="247" type="line"/>
+      <point x="405.24" y="247" type="line"/>
+      <point x="405.24" y="137" type="line"/>
+      <point x="512.24" y="137" type="line"/>
+      <point x="512.24" y="247" type="line"/>
+      <point x="615" y="247" type="line"/>
+      <point x="615" y="354" type="line"/>
+      <point x="512.24" y="354" type="line"/>
+      <point x="512.24" y="457" type="line"/>
+      <point x="615" y="457" type="line"/>
+      <point x="615" y="564" type="line"/>
+      <point x="512.24" y="564" type="line"/>
+      <point x="512.24" y="670" type="line"/>
+      <point x="405.24" y="670" type="line"/>
+      <point x="405.24" y="564" type="line"/>
+      <point x="302.24" y="564" type="line"/>
+      <point x="302.24" y="676" type="line"/>
+      <point x="195.24" y="676" type="line"/>
+      <point x="195.24" y="564" type="line"/>
+    </contour>
+    <contour>
+      <point x="405.24" y="457" type="line"/>
+      <point x="405.24" y="354" type="line"/>
+      <point x="302.24" y="354" type="line"/>
+      <point x="302.24" y="457" type="line"/>
+    </contour>
+  </outline>
+</glyph>
