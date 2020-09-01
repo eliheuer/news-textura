@@ -4,7 +4,7 @@ import math
 
 # CONSTANTS
 W = 1024  # Width
-H = 160   # Height
+H = 196   # Height
 M = 32    # Margin
 U = 32    # Unit (Grid Unit)
 
@@ -38,9 +38,9 @@ new_page()
 #grid() # Toggle for grid view
 
 font("fonts/ttf/NewspaperText-Regular.ttf")
-fontSize(M*4.5)
+fontSize(M*5.2)
 fill(1)
-text("Newspaper Text", (M*0.7, M*1))
+text("News Textura", (M*0.7, M*1.3))
 
 # SAVE THE IMAGE IN THIS SCRIPT'S DIRECTORY LOCATION
 # POST-PROCESS: gifsicle -i text-specimen.gif --optimize=16 -o output.gif
