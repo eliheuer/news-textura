@@ -1,3 +1,3 @@
-![Headline image, reads "Newspaper Text"](documentation/images/headline.png)
-# Newspaper Text
-A fork of Chomsky with Glyphs & UFO sources, drawn in cubic curves.
+![Headline image, reads "News Textura"](documentation/images/headline.png)
+# News Textura
+A fork of [Chomsky](https://github.com/ctrlcctrlv/chomsky) by Fredrick Brennan, Redrawn and respaced bt Eli Heuer with cubic curves and Glyphs/UFO sources. Will have an `opsz` axis soon. Early alpha work in progress... 
