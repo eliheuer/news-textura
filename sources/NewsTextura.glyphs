@@ -4,9 +4,12 @@ DisplayStrings = (
 abcdefghijklmnopqrstuvwxyz,
 ABCDEFGHIJKLMNOPQRSTUVWXYZ,
 "News/space Textura",
-A,
-"À",
-"/acutecomb.case"
+"A/circumflexcomb.case AÂ",
+"/acutecomb.case",
+"/circumflexcomb.case",
+"/acutecomb.case Á",
+"Ä",
+"/dieresiscomb.001"
 );
 copyright = "This font is licensed under the SIL Open Font License, v 1.1";
 customParameters = (
@@ -175,7 +178,7 @@ glyphs = (
 {
 color = 5;
 glyphname = A;
-lastChange = "2020-09-02 07:30:37 +0000";
+lastChange = "2020-09-02 09:33:14 +0000";
 layers = (
 {
 anchors = (
@@ -185,7 +188,7 @@ position = "{394, 0}";
 },
 {
 name = top;
-position = "{525, 800}";
+position = "{480, 800}";
 }
 );
 layerId = "032EDF5D-2B69-4E95-A18F-0FD11DED884D";
@@ -404,7 +407,7 @@ unicode = 0041;
 {
 color = 5;
 glyphname = Aacute;
-lastChange = "2020-09-02 07:46:44 +0000";
+lastChange = "2020-09-02 09:33:21 +0000";
 layers = (
 {
 components = (
@@ -413,7 +416,7 @@ name = A;
 },
 {
 name = acutecomb.case;
-transform = "{1, 0, 0, 1, 525, 287}";
+transform = "{1, 0, 0, 1, 480, 287}";
 }
 );
 layerId = "032EDF5D-2B69-4E95-A18F-0FD11DED884D";
@@ -585,10 +588,27 @@ note = Abreve;
 unicode = 0102;
 },
 {
+color = 5;
 glyphname = Acircumflex;
+lastChange = "2020-09-02 09:33:14 +0000";
 layers = (
 {
+components = (
+{
+name = A;
+},
+{
+name = circumflexcomb.case;
+transform = "{1, 0, 0, 1, 480, 287}";
+}
+);
 layerId = "032EDF5D-2B69-4E95-A18F-0FD11DED884D";
+width = 767;
+},
+{
+associatedMasterId = "032EDF5D-2B69-4E95-A18F-0FD11DED884D";
+layerId = "FE797AC2-902A-4E48-88D7-F66517CF5BD0";
+name = "Sep 2 20, 02:32";
 paths = (
 {
 closed = 1;
@@ -714,14 +734,15 @@ nodes = (
 );
 }
 );
+visible = 1;
 width = 767;
 }
 );
-note = Acircumflex;
 unicode = 00C2;
 },
 {
 glyphname = Adieresis;
+lastChange = "2020-09-02 09:42:11 +0000";
 layers = (
 {
 layerId = "032EDF5D-2B69-4E95-A18F-0FD11DED884D";
@@ -738,10 +759,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"525.88 953.47 LINE",
-"617.23 862.12 LINE",
-"707.11 952 LINE",
-"615.76 1043.35 LINE"
+"526 953 LINE",
+"617 862 LINE",
+"707 952 LINE",
+"616 1043 LINE"
 );
 },
 {
@@ -805,7 +826,7 @@ nodes = (
 "653.35 675.96 OFFCURVE",
 "656.92 691.48 CURVE SMOOTH",
 "660.49 707 OFFCURVE",
-"667.13 721.83 OFFCURVE",
+"666 723 OFFCURVE",
 "676.62 734.62 CURVE SMOOTH"
 );
 },
@@ -866,7 +887,7 @@ unicode = 00C4;
 {
 color = 5;
 glyphname = Agrave;
-lastChange = "2020-09-02 07:41:30 +0000";
+lastChange = "2020-09-02 09:33:21 +0000";
 layers = (
 {
 components = (
@@ -875,7 +896,7 @@ name = A;
 },
 {
 name = gravecomb.case;
-transform = "{1, 0, 0, 1, 525, 287}";
+transform = "{1, 0, 0, 1, 480, 287}";
 }
 );
 layerId = "032EDF5D-2B69-4E95-A18F-0FD11DED884D";
@@ -48898,6 +48919,44 @@ unicode = 20DD;
 },
 {
 color = 5;
+glyphname = dieresiscomb.001;
+lastChange = "2020-09-02 09:43:54 +0000";
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{0, 513}";
+}
+);
+layerId = "032EDF5D-2B69-4E95-A18F-0FD11DED884D";
+paths = (
+{
+closed = 1;
+nodes = (
+"-25 610 LINE",
+"-116 701 LINE",
+"-206 611 LINE",
+"-115 520 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"205 610 LINE",
+"114 701 LINE",
+"24 611 LINE",
+"115 520 LINE"
+);
+}
+);
+width = 0;
+}
+);
+note = dieresiscomb;
+},
+{
+color = 5;
 glyphname = gravecomb.case;
 lastChange = "2020-09-02 07:30:50 +0000";
 layers = (
@@ -48926,8 +48985,9 @@ width = 0;
 note = gravecomb;
 },
 {
+color = 5;
 glyphname = acutecomb.case;
-lastChange = "2020-09-02 07:46:19 +0000";
+lastChange = "2020-09-02 09:33:39 +0000";
 layers = (
 {
 anchors = (
@@ -48941,10 +49001,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"59 697 LINE",
-"7 737 LINE",
-"-78 561 LINE",
-"-70 554 LINE"
+"89 697 LINE",
+"37 737 LINE",
+"-48 561 LINE",
+"-40 554 LINE"
 );
 }
 );
@@ -48952,6 +49012,37 @@ width = 0;
 }
 );
 note = acutecomb;
+},
+{
+color = 5;
+glyphname = circumflexcomb.case;
+lastChange = "2020-09-02 09:25:00 +0000";
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{0, 513}";
+}
+);
+layerId = "032EDF5D-2B69-4E95-A18F-0FD11DED884D";
+paths = (
+{
+closed = 1;
+nodes = (
+"-23 644 LINE",
+"85 543 LINE",
+"159 622 LINE",
+"35 738 LINE",
+"-143 561 LINE",
+"-125 543 LINE"
+);
+}
+);
+width = 0;
+}
+);
+note = circumflexcomb;
 },
 {
 glyphname = uni0364;
