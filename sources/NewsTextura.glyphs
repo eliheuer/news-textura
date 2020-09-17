@@ -1,9 +1,7 @@
 {
 .appVersion = "1346";
 DisplayStrings = (
-L,
-K,
-I
+A
 );
 copyright = "This font is licensed under the SIL Open Font License, v 1.1";
 customParameters = (
@@ -252,13 +250,13 @@ glyphs = (
 {
 color = 4;
 glyphname = A;
-lastChange = "2020-09-15 03:19:32 +0000";
+lastChange = "2020-09-17 10:04:46 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{394, 0}";
+position = "{395, -49}";
 },
 {
 name = top;
@@ -296,8 +294,8 @@ nodes = (
 "272 669 OFFCURVE",
 "401 669 CURVE SMOOTH",
 "477 669 OFFCURVE",
-"530 635 OFFCURVE",
-"569 604 CURVE",
+"540 566 OFFCURVE",
+"569 604 CURVE SMOOTH",
 "639 696 LINE",
 "594 731 OFFCURVE",
 "523 768 OFFCURVE",
@@ -367,93 +365,6 @@ position = "{480, 800}";
 }
 );
 layerId = "DC111F07-771A-4B75-BCB9-B827F9639457";
-paths = (
-{
-closed = 1;
-nodes = (
-"200 128 LINE",
-"529 673 LINE",
-"495 673 LINE",
-"166 128 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"541 271 LINE",
-"611 373 LINE",
-"336 373 LINE",
-"273 271 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"305 336 LINE",
-"252 370 OFFCURVE",
-"214 426 OFFCURVE",
-"214 489 CURVE SMOOTH",
-"214 562 OFFCURVE",
-"272 669 OFFCURVE",
-"401 669 CURVE SMOOTH",
-"477 669 OFFCURVE",
-"530 635 OFFCURVE",
-"569 604 CURVE",
-"639 696 LINE",
-"594 731 OFFCURVE",
-"523 768 OFFCURVE",
-"438 768 CURVE SMOOTH",
-"310 768 OFFCURVE",
-"160 692 OFFCURVE",
-"160 513 CURVE SMOOTH",
-"160 408 OFFCURVE",
-"235 341 OFFCURVE",
-"292 318 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
-"754 108 LINE",
-"736 132 LINE",
-"702 110 LINE",
-"672 110 OFFCURVE",
-"648 137 OFFCURVE",
-"649 223 CURVE SMOOTH",
-"655 653 LINE SMOOTH",
-"656 694 OFFCURVE",
-"663 717 OFFCURVE",
-"692 753 CURVE",
-"672 773 LINE",
-"522 642 LINE",
-"522 150 LINE SMOOTH",
-"522 58 OFFCURVE",
-"603 0 OFFCURVE",
-"629 0 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
-"65 0 LINE",
-"92 26 OFFCURVE",
-"145 65 OFFCURVE",
-"237 65 CURVE SMOOTH",
-"299 65 OFFCURVE",
-"355 37 OFFCURVE",
-"394 0 CURVE",
-"583 172 LINE",
-"555 201 LINE",
-"469 124 LINE",
-"444 144 OFFCURVE",
-"380 174 OFFCURVE",
-"311 174 CURVE SMOOTH",
-"199 174 OFFCURVE",
-"101 120 OFFCURVE",
-"47 10 CURVE"
-);
-}
-);
 width = 767;
 }
 );
