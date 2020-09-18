@@ -1,0 +1,54 @@
+# Prefix: lookup_0
+lookup lookup_0 {
+sub i by dotlessi;
+sub j by dotlessj;
+} lookup_0;
+
+
+# Prefix: lookup_1
+lookup lookup_1 {
+sub r by uniA75B;
+} lookup_1;
+
+
+feature ccmp {
+sub [i j]' lookup lookup_0 uni0364 ;
+
+} ccmp;
+
+feature dlig {
+sub n d by nd.dlig;
+sub r d by rd.dlig;
+sub s t by st.dlig;
+sub t h by th.dlig;
+
+} dlig;
+
+feature hist {
+sub [b d h o p eth ograve oacute ocircumflex otilde odieresis thorn dcaron hcircumflex omacron obreve ohungarumlaut] r' lookup lookup_1 ;
+
+} hist;
+
+feature liga {
+sub f f l by f_f_l;
+sub f f i by f_f_i;
+sub f l by f_l;
+sub f i by f_i;
+sub f f by f_f;
+
+} liga;
+
+feature salt {
+sub hyphen by uni2E17.alt;
+sub uni2E17 by uni2E17.alt;
+
+} salt;
+
+table GDEF {
+  # automatic
+  GlyphClassDef
+    [A Aacute Acircumflex Adieresis Agrave Atilde], # Base
+    , # Liga
+    [dieresiscomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb tildecomb macroncomb overlinecomb uni0315 cedillacomb ogonekcomb dieresiscomb.case gravecomb.case acutecomb.case circumflexcomb.case tildecomb.case], # Mark
+    ;
+} GDEF;

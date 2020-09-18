@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="currency" format="2">
+  <advance width="503"/>
+  <unicode hex="00A4"/>
+  <note>
+currency
+</note>
+  <outline>
+    <contour>
+      <point x="310.66" y="76.49" type="line"/>
+      <point x="195.62" y="153.19" type="line"/>
+      <point x="195.62" y="440.8" type="line"/>
+      <point x="310.66" y="364.1" type="line"/>
+    </contour>
+    <contour>
+      <point x="15.02" y="89.46" type="line"/>
+      <point x="32.64" y="67.7" type="line"/>
+      <point x="74.2" y="101.4" type="line"/>
+      <point x="214.8" y="-0.2" type="line"/>
+      <point x="418.34" y="123.69" type="line"/>
+      <point x="472.13" y="80.07" type="line"/>
+      <point x="489.77" y="101.82" type="line"/>
+      <point x="435.31" y="145.99" type="line"/>
+      <point x="435.31" y="397.21" type="line"/>
+      <point x="477.94" y="431.78" type="line"/>
+      <point x="460.3" y="453.53" type="line"/>
+      <point x="418.82" y="419.89" type="line"/>
+      <point x="291.5" y="517.5" type="line"/>
+      <point x="87.31" y="400.2" type="line"/>
+      <point x="28.48" y="447.91" type="line"/>
+      <point x="10.84" y="426.16" type="line"/>
+      <point x="66.21" y="381.26" type="line"/>
+      <point x="66.21" y="297.83"/>
+      <point x="66.21" y="214.4"/>
+      <point x="66.21" y="130.97" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>517.49</real>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>66.19</real>
+            <real>129.43</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>310.66</real>
+            <real>124.63</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

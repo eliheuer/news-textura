@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="softhyphen" format="2">
+  <advance width="494"/>
+  <unicode hex="00AD"/>
+  <note>
+uni00AD
+</note>
+  <outline>
+    <contour>
+      <point x="382.09" y="330" type="line"/>
+      <point x="504.31" y="466.59" type="line"/>
+      <point x="489.93" y="480.97" type="line"/>
+      <point x="466.75" y="457" type="line"/>
+      <point x="161.74" y="457" type="line"/>
+      <point x="39.53" y="320.41" type="line"/>
+      <point x="53.91" y="306.03" type="line"/>
+      <point x="78.01" y="330" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>330</integer>
+            <integer>127</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

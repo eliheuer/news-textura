@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringabovecomb.case" format="2">
+  <unicode hex="030A"/>
+  <note>
+ringabovecomb
+</note>
+  <outline>
+    <contour>
+      <point x="-94" y="618" type="curve" smooth="yes"/>
+      <point x="-94" y="566"/>
+      <point x="-52" y="524"/>
+      <point x="0" y="524" type="curve" smooth="yes"/>
+      <point x="52" y="524"/>
+      <point x="94" y="566"/>
+      <point x="94" y="618" type="curve" smooth="yes"/>
+      <point x="94" y="670"/>
+      <point x="52" y="712"/>
+      <point x="0" y="712" type="curve" smooth="yes"/>
+      <point x="-52" y="712"/>
+      <point x="-94" y="670"/>
+    </contour>
+    <contour>
+      <point x="-66" y="618" type="curve" smooth="yes"/>
+      <point x="-66" y="654"/>
+      <point x="-36" y="684"/>
+      <point x="0" y="684" type="curve" smooth="yes"/>
+      <point x="36" y="684"/>
+      <point x="66" y="654"/>
+      <point x="66" y="618" type="curve" smooth="yes"/>
+      <point x="66" y="582"/>
+      <point x="36" y="552"/>
+      <point x="0" y="552" type="curve" smooth="yes"/>
+      <point x="-36" y="552"/>
+      <point x="-66" y="582"/>
+    </contour>
+  </outline>
+</glyph>
