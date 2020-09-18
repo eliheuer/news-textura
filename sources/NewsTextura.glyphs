@@ -1,7 +1,7 @@
 {
 .appVersion = "1346";
 DisplayStrings = (
-A
+E
 );
 copyright = "This font is licensed under the SIL Open Font License, v 1.1";
 customParameters = (
@@ -53,6 +53,7 @@ value = 0;
 );
 date = "2020-09-01 21:12:11 +0000";
 designer = "Eli Heuer, Fredrick Brennan ";
+designerURL = "https://elih.blog";
 disablesNiceNames = 1;
 familyName = "News Textura";
 featurePrefixes = (
@@ -98,7 +99,7 @@ alignmentZones = (
 );
 ascender = 800;
 capHeight = 777;
-custom = Small;
+custom = "9pt";
 customParameters = (
 {
 name = typoAscender;
@@ -177,7 +178,7 @@ alignmentZones = (
 );
 ascender = 800;
 capHeight = 777;
-custom = Large;
+custom = "144pt";
 customParameters = (
 {
 name = typoAscender;
@@ -241,6 +242,7 @@ verticalStems = (
 134,
 140
 );
+visible = 1;
 weightValue = 400;
 widthValue = 5;
 xHeight = 513;
@@ -3451,7 +3453,7 @@ unicode = 00D0;
 {
 color = 4;
 glyphname = E;
-lastChange = "2020-09-11 05:47:02 +0000";
+lastChange = "2020-09-18 03:42:18 +0000";
 layers = (
 {
 layerId = "032EDF5D-2B69-4E95-A18F-0FD11DED884D";
@@ -3472,7 +3474,7 @@ nodes = (
 "214 573 OFFCURVE",
 "271 633 OFFCURVE",
 "375 708 CURVE",
-"365.68 722.86 LINE",
+"366 723 LINE",
 "209 671 OFFCURVE",
 "93 513 OFFCURVE",
 "93.18 358.01 CURVE SMOOTH",
@@ -49423,6 +49425,8 @@ name = Regular;
 weightClass = Normal;
 }
 );
+manufacturer = "GTL Type Label";
+manufacturerURL = "https://gtl.world";
 unitsPerEm = 1000;
 versionMajor = 1;
 versionMinor = 0;
